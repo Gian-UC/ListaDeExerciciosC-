@@ -1,0 +1,14 @@
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\PraticeWithAria\C#\bin\Debug\net7.0\C#.exe
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\PraticeWithAria\C#\bin\Debug\net7.0\C#.deps.json
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\PraticeWithAria\C#\bin\Debug\net7.0\C#.runtimeconfig.json
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\PraticeWithAria\C#\bin\Debug\net7.0\C#.dll
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\PraticeWithAria\C#\bin\Debug\net7.0\C#.pdb
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\PraticeWithAria\C#\obj\Debug\net7.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\PraticeWithAria\C#\obj\Debug\net7.0\C#.AssemblyInfoInputs.cache
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\PraticeWithAria\C#\obj\Debug\net7.0\C#.AssemblyInfo.cs
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\PraticeWithAria\C#\obj\Debug\net7.0\C#.csproj.CoreCompileInputs.cache
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\PraticeWithAria\C#\obj\Debug\net7.0\C#.dll
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\PraticeWithAria\C#\obj\Debug\net7.0\refint\C#.dll
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\PraticeWithAria\C#\obj\Debug\net7.0\C#.pdb
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\PraticeWithAria\C#\obj\Debug\net7.0\C#.genruntimeconfig.cache
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\PraticeWithAria\C#\obj\Debug\net7.0\ref\C#.dll
